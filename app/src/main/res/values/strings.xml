@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ReignDesign</string>
+
+    <!-- Messages -->
+    <string name="delete_item_msg">Elemento eliminado</string>
+    <string name="error_msg">Ha ocurrido un error</string>
+    <string name="network_error_msg">No se puede conectar a Internet. Compruebe su conexión.</string>
+    <string name="server_error_msg">No se pudo encontrar el servidor. Inténtalo más tarde.</string>
+    <string name="auth_failure_error_msg">No se puede conectar a Internet. Compruebe su conexión.</string>
+    <string name="parse_error_msg">Error de sintáxis. Inténtalo más tarde.</string>
+    <string name="time_out_error_msg">Tiempo de espera agotado. Inténtelo más tarde.</string>
+    <string name="load_ok_msg">Se ha cargado un archivo de respaldo.</string>
+    <string name="file_not_found">No se encontró un archivo de respaldo.</string>
+    <string name="file_read_error">Error al leer archivo desde memoria interna.</string>
+    <string name="no_url">Url no disponible.</string>
+    <string name="no_internet">No hay conexión a internet.</string>
+    <string name="no_title">Sin título.</string>
+    <string name="file">Archivo</string>
+
+    <!-- Samples -->
+    <string name="title_sample">Inside Android Ore\'s Quest to Protect Your Phone</string>
+    <string name="author_sample">jonbaer - 1h</string>
+
+</resources>
